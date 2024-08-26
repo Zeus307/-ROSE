@@ -1,78 +1,122 @@
+ 
+
+<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩11ꫂ<br></h1>
+<p align="center">
+<img src="https://i.ibb.co/RC7JWDj/e258b5ae2b1cf8195d33743570dbe498.jpg" />
+</p>
+
+<p align="center">
+Cheems Bot Multi Device is a whatsapp bot developed by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+</p>
+
+<p align="center">
+<a href="https://youtu.be/mu5m6aB6P5k"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
+</p>
+
+------
+
+# ```Bot Info```
+<p align="center">
+<a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a>
+<a href="https://github.com/DGXeon/CheemsBot-MD11/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DGXeon/CheemsBot-MD11?color=blue&style=flat-square"></a>
+<a href="https://github.com/DGXeon/CheemsBot-MD11/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGXeon/CheemsBot-MD11?color=red&style=flat-square"></a>
+<a href="https://github.com/DGXeon/CheemsBot-MD11/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DGXeon/CheemsBot-MD11?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/DGXeon/CheemsBot-MD11"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/DGXeon/CheemsBot-MD11/"><img title="Size" src="https://img.shields.io/github/repo-size/DGXeon/CheemsBot-MD11?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD11&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/DGXeon/CheemsBot-MD11/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
+<p align='center'>
+    </p>
+
+-------
+
+## ```Connect With Me```
+<p align="center">
+<a href="https://youtube.com/@DGXeon"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DGXeon" /><br>
+<a href="https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20" /><br>
+<a href="https://t.me/xeonbotinc"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://chat.whatsapp.com/BW0o3ZyiAF5Azb1bIqG9Ue"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://www.instagram.com/unicorn_xeon13?igsh=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
+</p>
+
+## ```Donate Me```
+
+- [`Binance`](https://i.ibb.co/W2gYn6S/binance.png)
+- [`PayPal`](https://www.paypal.me/josephxeon13)
+- [`GooglePay`](https://i.ibb.co/yQkqBS2/donate.png)
+- [`FamPay`](https://i.ibb.co/w46VQ8D/Picsart-22-10-08-06-46-30-674.jpg)
+
+## ```Bot Support Group Chats```
+
+- [`1st GC`](https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH)
+- [`2nd GC`](https://chat.whatsapp.com/BW0o3ZyiAF5Azb1bIqG9Ue)
+- [`3rd GC`](https://chat.whatsapp.com/KMymhLdGcjPHihOkrfHW7q)
+
+## `For Termux & Panel User, Download This👇`
+- [`Click Here`](https://shrinkme.pro/y07LYARu)
 
 
-# **RoseV1: The All-Powerful WhatsApp Bot**
+# Setup For Deployment 👇
 
-![RoseV1](https://telegra.ph/file/15e7a5987464e2520979b.jpg)
+- FORK THE REPOSITORY [Here](https://github.com/DGXeon/CheemsBot-MD11/fork)
 
-Welcome to **RoseV1**, the ultimate WhatsApp bot designed to empower your group management and enhance your messaging experience. With a comprehensive suite of features, RoseV1 is your loyal companion in automating, moderating, and enriching your chats. Let's dive into what makes RoseV1 the ultimate tool for the job.
+## `Generate Pair Code For Session`
+[![Xeon](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Xeon-PairCode)
 
-## 🌟 **Key Features**
+## ` BUILDPACKS`
 
-- **Antispam & Antiforeign Protection**: Keep your groups clean and secure with powerful antispam and antiforeign filters.
-- **Advanced Group Management**: Effortlessly manage group settings, promotions, demotions, and even mass actions like kicking or promoting all members.
-- **Media Control**: Control the flow of media with anti-audio, anti-video, anti-image, and other anti-media commands.
-- **Automated Responses**: Set up autoreplies, automate greetings, and more to keep your chats lively and engaging.
-- **Customizable Commands**: Tailor RoseV1’s behavior with customizable command prefixes, response messages, and menu layouts.
-- **Premium Features**: Unlock exclusive commands and features with premium access.
+```
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+```
 
-## ⚙️ **Installation & Setup**
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD11/)
 
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/YourUsername/RoseV1.git
-   cd RoseV1
-   ```
+# Install Manually 👇
+## `Requirements`
+* [Node.js](https://nodejs.org/en/)
+* [Git](https://git-scm.com/downloads)
+* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
+* [Libwebp](https://developers.google.com/speed/webp/download)
+* Any text editor
+## `Clone Repo & Installation dependencies`
+```bash
+git clone https://github.com/DGXeon/CheemsBot-MD11.git
+cd CheemsBot-MD11
 
-2. **Install Dependencies**  
-   Ensure you have Node.js installed. Then run:
-   ```bash
-   npm install
-   ```
-
-3. **Configure Your Bot**  
-   Edit the `config.json` file to customize your bot’s settings, such as prefix, owner contact, and other core configurations.
-
-4. **Run RoseV1**  
-   Start the bot with:
-   ```bash
-   npm start
-   ```
-
-   Alternatively, you can run RoseV1 in development mode:
-   ```bash
-   npm run dev
-   ```
-
-## 🔥 **Usage**
-
-RoseV1 comes packed with a range of commands to make managing your WhatsApp groups a breeze. Here are just a few:
-
-- **Admin Commands**: Manage members, control group settings, and automate tasks.
-- **Fun & Utility**: Engage your members with fun commands, or set up utilities like polls and timers.
-- **Media & Files**: Automate media control, set custom group pictures, or share files seamlessly.
-
-## 📜 **Contributing**
-
-We welcome contributions from everyone. To get started:
-
-1. Fork the repository
-2. start it aswell please
-3. Create a new branch (`git checkout -b feature-name`).
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature-name`).
-6. Open a pull request, and we’ll review it as soon as possible.
-
-## 🚀 **Contributors**
-
-Rose is made possible by the hard work of these awesome contributors. Thank you! 💖
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Luxxy4"><img src="https://avatars.githubusercontent.com/u/176667505?v=4" width="100px;" alt=""/><br /><sub><b>NATHAN 1</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Zeus30007"><img src="https://avatars.githubusercontent.com/u/130933523?v=4" width="100px;" alt=""/><br /><sub><b>MELLO 2</b></sub></a></td>
-  </tr>
-</table>
-
----
----
-.
+npm start
+```
+## `For Termux/Ssh/Ubuntu`
+```bash
+apt update
+apt upgrade
+pkg update && pkg upgrade
+pkg install bash
+pkg install libwebp
+pkg install git -y
+pkg install nodejs -y 
+pkg install ffmpeg -y 
+pkg install wget
+pkg install imagemagick -y
+git clone https://github.com/DGXeon/CheemsBot-MD11
+cd CheemsBot-MD11
+yarn install
+npm start
+```
+## `For VPS`
+```bash
+apt install nodejs 
+apt install git 
+apt apt install ffmpeg 
+apt apt install libwebp 
+apt apt install imagrmagick
+apt install bash
+git clone https://github.com/DGXeon/CheemsBot-MD11
+cd CheemsBot-MD11
+npm start
+```
+## `For 24/7 Activation (Termux)`
+```bash
+npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
+```

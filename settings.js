@@ -21,21 +21,21 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //new
 global.botname = '⨺⃝𝚁𝙾𝚂𝙴' //ur bot name
 global.ownernumber = '918618971837' //ur owner number
-global.ownername = '♱NATHAN♱' //ur owner name
+global.ownername = '♱NATHAN♱'//ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "https://whatsapp.com/channel/0029VagLBl4DeOMyzdqe690U"
 global.themeemoji = '💣'
 global.wm = "Luxi4KitsuInc."
-global.botscript = 'https://github.com/Zeus30007/-ROSE' //script link
-global.packname = "NATHAN|ft|"
-global.author = "╶⃝𝙼𝚒𝚛𝚊𝚗 𝚏𝚘𝚡𓃥"
-global.creator = "6283891139988@s.whatsapp.net"
+global.botscript = 'https://github.com/Zeus3007/-Rose' //script link
+global.packname = "NATHAN◇|⨺⃝𝚁𝙾"
+global.author = "𝚂𝙴♱|◇╶⃝𝙼𝚒𝚛𝚊𝚗 𝚏𝚘𝚡𓃥"
+global.creator = "916909137213@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["6283891139988"] // Premium User
 global.hituet = 0
 
 //bot sett
-global.typemenu = 'v1' // menu type 'v1' => 'v8'
+global.typemenu = 'v2' // menu type 'v1' => 'v8'
 global.typereply = 'v2' // reply type 'v1' => 'v3'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
